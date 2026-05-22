@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://github.com/googleapis/python-genai/compare/v2.6.0...v2.7.0) (2026-05-22)
+
+
+### Features
+
+* Support Reinforcement Tuning in GenAI SDK ([0ead888](https://github.com/googleapis/python-genai/commit/0ead8888695f379ecf35cfc68d69e4b7e8e20403))
+
 ## [2.6.0](https://github.com/googleapis/python-genai/compare/v2.5.0...v2.6.0) (2026-05-21)
 
 
